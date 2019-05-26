@@ -23,3 +23,13 @@ body input:required:valid,
 body textarea:required:valid {
 	
 }
+
+.main_head .lead {
+	color: #fff;
+	font-family: "OpenSansBold", sans-serif;
+}
+.phone_top {
+	top: 12px;
+	position: relative;
+	text-align: center;
+}
